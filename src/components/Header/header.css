@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+.cabecalho{
+    display: flex;
+    padding: 20px 30px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.cabecalho ul{
+    text-decoration: none;
+    color: #273336;
+    list-style: none;
+}
+
+.cabecalho p{
+    color: #273336;
+    text-decoration:wavy;
+}
+
+.cabecalho h2{
+    color: #B20000;
+}

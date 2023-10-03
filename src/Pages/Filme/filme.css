@@ -1,0 +1,36 @@
+.form_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.form_container h1{
+    margin-bottom: 10px;
+    color: #B20000;
+}
+
+.container_filme{
+    display: flex;
+    padding: 20px 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.container_filme img{
+    width: 30%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container_filme ul{
+    list-style: none;
+    padding: 20px 30px;
+}
+
+.container_filme li{
+    padding: 10px;
+}
+
+.container_filme h1{
+    color: #B20000;
+    padding: 20px 30px;
+}

@@ -1,0 +1,28 @@
+form div{
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form input{
+    outline: none;
+    padding: 10px;
+    min-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+form input:focus{
+    background-color: #ccc;
+}
+
+.btn_enviar input{
+    background-color: #ccc;
+}
+
+.btn_enviar input:hover{
+    background-color: rgb(150, 147, 147);
+    cursor: pointer;
+    text-decoration: underline;
+}

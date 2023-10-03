@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+.rodape{
+    display: flex;
+    padding: 20px 30px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 0 10px 5px gray;
+}
+
+.rodape ul{
+    text-decoration: none;
+    color: #273336;
+    list-style: none;
+}
+
+.rodape p{
+    color: #273336;
+    text-decoration:wavy;
+}
+
+.rodape h2{
+    color: #B20000;
+}
